@@ -29,6 +29,15 @@ body
 	font-family: 'Open Sans';
     color: #fff;
 }
+#lien banner
+{
+   position:absolute;
+   height: 250px;
+    width: auto;
+    background-color: transparent;
+	font-family: 'Open Sans';
+
+}
 #banner-right
 {
     margin-top:50px;
