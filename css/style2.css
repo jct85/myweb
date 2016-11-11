@@ -29,14 +29,6 @@ body
 	font-family: 'Open Sans';
     color: #fff;
 }
-#lien banner
-{
-    position: relative;
-    height:250px;
-    width:auto;
-	font-family: 'Open Sans';
-    background-color: transparent;
-}
 #banner-right
 {
     margin-top:50px;
