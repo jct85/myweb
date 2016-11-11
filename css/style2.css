@@ -33,7 +33,7 @@ body
 {
    position:absolute;
    height: 250px;
-    width: auto;
+    width: inherit;
     background-color: transparent;
 	font-family: 'Open Sans';
 
