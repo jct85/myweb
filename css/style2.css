@@ -109,6 +109,7 @@ h7
     font-size:14px;
     font-family: 'Open Sans';
     color: #000;
+    
 }
 #photo
 {
@@ -345,6 +346,7 @@ blockquote {
     margin-left: 50px;
     padding-left: 15px;
     border-left: 3px solid #ccc;
+    line-height: 75%;
 } 
 p 
 {
