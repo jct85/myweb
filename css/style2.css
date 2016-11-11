@@ -1,0 +1,332 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Regular.eot');
+  src: url('fonts/OpenSans-Regular.eot') format("embedded-opentype"), url('fonts/OpenSans-Regular.woff') format("woff"), url('fonts/OpenSans-Regular.ttf') format("truetype"), url('fonts/OpenSans-Regular.svg') format("svg");
+  font-weight: normal;
+  font-style: normal; 
+}
+.En-tete
+{
+    position: relative;
+    height: 250px;
+    width: auto;
+	background-color:#5e9ec4; 
+}
+body
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top center;
+	background-size: 780px 1200px;
+	opacity:1;
+}
+#banner
+{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:nowrap;
+	font-size: 13px;
+	font-family: 'Open Sans';
+    color: #fff;
+}
+#banner-right
+{
+    margin-top:50px;
+    margin-right:5px;
+	font-size: 13px;
+	font-family: 'Open Sans';
+    color: #fff;
+}
+#banner-middle
+{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:nowrap;
+    position: relative;
+    text-align :left;
+	font-family: 'Open Sans';
+    color: #fff;
+}
+#Titre
+{   
+margin-top:45px;
+    margin-left: 10px;
+}
+#banner-left
+{   
+
+}
+h1
+{
+    font-size:25px;
+	font-family: 'Open Sans';
+    color: #fff;
+}
+h2
+{
+    font-size:16px;
+	font-family: 'Open Sans';
+    color: #C9CACB;
+}
+h3
+{
+    font-size:16px;
+	font-family: 'Open Sans';
+    color: #fff;
+}
+h4
+{
+    font-size:23px;
+	font-family: 'Open Sans';
+    color: #5e9ec4;
+}
+h5
+{
+    font-size:18px;
+	font-family: 'Open Sans';
+    color: #000;
+}
+.h6
+{
+    position: relative;
+    font-size:16px;
+	font-family: 'Open Sans';
+    color: #776;
+}
+#photo
+{
+    margin-top: 35px;
+    }
+#photo-jc
+{
+	margin-right: 5px;
+	margin-top: 20px;
+	border:3px White solid;
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+.Corps-cv-part1
+{
+    
+    margin-top:10px;
+	font-family: 'Open Sans';   
+}
+#Experience 
+{ 
+    float:left;
+	text-align: : left;
+    color:#5e9ec4;
+	margin-left: 10px;
+	margin-right: 50px;
+	margin-top: 5px;
+	font-family: 'Open Sans';
+}
+.Competence
+{
+    float:left;
+    margin-top: 20px;
+    color:#5e9ec4;
+	text-align: : left;
+	margin-left: 1px;
+	margin-right:1px;
+	font-family: 'Open Sans';
+}
+.contenu-comptence
+{
+    float:left;
+    color:inherit;
+	text-align: : right;
+	margin-left: 1px;
+	margin-right:1px;
+	font-family: 'Open Sans';
+}
+.contenu-complementaire
+{
+   
+    color:inherit;
+	text-align: : center;
+	margin-left: 10px;
+	margin-right:1px;
+	font-family: 'Open Sans';
+}
+.Information-complementaire
+{
+	text-align: : center;
+	font-family: 'Open Sans';
+}
+.Corps-cv-part2
+{
+    margin-top: 45px;
+    margin-left: 1000px;
+    position:relative;
+	font-size: 13px;
+	font-family: 'Open Sans';
+    color: #000;
+    margin-right: auto;
+}
+#formation
+{
+	text-align: : left;
+	border-bottom: solid 1px; color:#327A87;
+	margin-left: 10px;
+	margin-right:10px;
+	font-family: 'Open Sans';
+}
+.date
+{
+    margin-left: 300px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date1
+{
+    margin-left: 290px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date2
+{
+    margin-left: 315px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date3
+{
+    margin-left: 284px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date4
+{
+    margin-left: 635px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date5
+{
+    margin-left: 635px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.date6
+{
+    margin-left: 490px;
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:10px;
+    background-color:#797b7d;
+    border:1px solid #fff;
+    padding:4px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+}
+.programme
+{
+    box-sizing:content-box;
+    width:10%;
+    color:#fff;
+    text-align: center;
+	font-weight:bolder;
+	font-size:12px;
+    background-color:#aaa;
+    border:2px solid #fff;
+    padding:4px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+}
+contenu-complementaire
+{
+    position:relative;
+    text-align: center;
+
+}
+#contenu
+{
+    font-size: 14px;
+	margin-top: 2px;
+	float:center;
+	font-family: 'Open Sans';
+}
+blockquote {
+    color: black;
+  font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
+p 
+{
+    border: 0.5px solid;color:#ccc;
+
+}
