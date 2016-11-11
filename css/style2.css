@@ -36,7 +36,6 @@ body
     width: inherit;
     background-color: transparent;
     font-family: 'Open Sans';
-
 }
 #banner-right
 {
@@ -55,6 +54,8 @@ body
     text-align :left;
     font-family: 'Open Sans';
     color: #fff;
+    margin-left: auto;
+    margin-right: auto;
 }
 #Titre
 {   
