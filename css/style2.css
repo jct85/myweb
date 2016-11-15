@@ -211,7 +211,8 @@ h7
     border-radius:20px;
 }
 .date1
-{
+{   
+    float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -227,7 +228,7 @@ h7
 }
 .date2
 {
-    margin-left:auto;
+    float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -243,7 +244,7 @@ h7
 }
 .date3
 {
-    margin-left:auto;
+    float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -259,7 +260,7 @@ h7
 }
 .date4
 {
-    margin-left:auto;
+    float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -275,7 +276,7 @@ h7
 }
 .date5
 {
-    margin-left:auto;
+    float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -291,7 +292,7 @@ h7
 }
 .date6
 {
-   margin-left:auto;
+   float: right;
     box-sizing:content-box;
     width:10%;
     color:#fff;
