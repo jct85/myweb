@@ -196,7 +196,7 @@ h7
 }
 .date
 {
-    /*margin-left: 300px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -212,8 +212,7 @@ h7
 }
 .date1
 {
-    float: right;
-    /*margin-left: 290px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -229,8 +228,7 @@ h7
 }
 .date2
 {
-    float: right;
-    /*margin-left: 315px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -246,8 +244,7 @@ h7
 }
 .date3
 {
-    float: right;
-    /*margin-left: 284px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -263,8 +260,7 @@ h7
 }
 .date4
 {
-    float:right;
-    /*margin-left: 635px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -280,8 +276,7 @@ h7
 }
 .date5
 {
-    float:right;
-    /*margin-left: 635px;*/
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -297,8 +292,7 @@ h7
 }
 .date6
 {
-    float:right;
-    /*margin-left: 490px;*/
+   margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
