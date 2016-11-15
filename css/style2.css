@@ -145,7 +145,7 @@ h7
 }
 .Competence
 {
-    float:right;
+    float:left;
     margin-top: 20px;
     color:#5e9ec4;
     text-align: : left;
@@ -196,7 +196,7 @@ h7
 }
 .date
 {
-    margin-right:auto;
+    margin-left: 300px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -212,7 +212,7 @@ h7
 }
 .date1
 {
-    margin-right:auto;
+    margin-left: 290px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -228,7 +228,7 @@ h7
 }
 .date2
 {
-    margin-left:auto;
+    margin-left: 315px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -244,7 +244,7 @@ h7
 }
 .date3
 {
-    margin-left:auto;
+    margin-left: 284px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -260,7 +260,7 @@ h7
 }
 .date4
 {
-    margin-left:auto;
+    margin-left: 635px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -276,7 +276,7 @@ h7
 }
 .date5
 {
-    margin-left:auto;
+    margin-left: 635px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -292,7 +292,7 @@ h7
 }
 .date6
 {
-   margin-left:auto;
+    margin-left: 490px;
     box-sizing:content-box;
     width:10%;
     color:#fff;
