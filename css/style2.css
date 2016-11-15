@@ -145,7 +145,7 @@ h7
 }
 .Competence
 {
-    float:left;
+    float:right;
     margin-top: 20px;
     color:#5e9ec4;
     text-align: : left;
@@ -178,9 +178,9 @@ h7
 }
 .Corps-cv-part2
 {
-    margin-top: 45px;
-    margin-left: 1000px;
-    position:relative;
+    margin-top: 5px;
+    margin-left: 1368px;
+    position:absolute;
     font-size: 13px;
     font-family: 'Open Sans';
     color: #000;
@@ -196,7 +196,7 @@ h7
 }
 .date
 {
-    margin-left: 300px;
+    margin-right:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -212,7 +212,7 @@ h7
 }
 .date1
 {
-    margin-left: 290px;
+    margin-right:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -228,7 +228,7 @@ h7
 }
 .date2
 {
-    margin-left: 315px;
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -244,7 +244,7 @@ h7
 }
 .date3
 {
-    margin-left: 284px;
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -260,7 +260,7 @@ h7
 }
 .date4
 {
-    margin-left: 635px;
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -276,7 +276,7 @@ h7
 }
 .date5
 {
-    margin-left: 635px;
+    margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
@@ -292,7 +292,7 @@ h7
 }
 .date6
 {
-    margin-left: 490px;
+   margin-left:auto;
     box-sizing:content-box;
     width:10%;
     color:#fff;
