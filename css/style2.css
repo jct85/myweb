@@ -196,6 +196,7 @@ h7
 }
 .date
 {
+    float: right;
     margin-left: 300px;
     box-sizing:content-box;
     width:10%;
@@ -212,6 +213,8 @@ h7
 }
 .date1
 {
+    position: relative
+    float: right;
     margin-left: 290px;
     box-sizing:content-box;
     width:10%;
@@ -228,6 +231,8 @@ h7
 }
 .date2
 {
+    position: relative
+    float: right;
     margin-left: 315px;
     box-sizing:content-box;
     width:10%;
@@ -244,6 +249,8 @@ h7
 }
 .date3
 {
+    position: relative
+    float: right;
     margin-left: 284px;
     box-sizing:content-box;
     width:10%;
