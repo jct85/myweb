@@ -8,6 +8,13 @@
 ul {
     list-style-type: none;
 }
+li {
+    list-style-type: none;
+}
+li:before
+{
+    content: "\A4 \ "; /* caractère ISO 10646 */
+}
 .En-tete
 {
     position: relative;
