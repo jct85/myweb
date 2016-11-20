@@ -5,6 +5,11 @@
     font-weight: normal;
     font-style: normal; 
 }
+citation {
+     font-size:16px;
+    font-family: 'Open Sans';
+    color: #5e9ec4;
+}
 ul {
     list-style-type: none;
 }
