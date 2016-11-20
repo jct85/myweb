@@ -5,6 +5,9 @@
     font-weight: normal;
     font-style: normal; 
 }
+ul {
+    list-style: none;
+}
 .En-tete
 {
     position: relative;
