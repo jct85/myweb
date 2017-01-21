@@ -70,7 +70,7 @@ body
     font-family: 'Open Sans';
     color: #fff;
     margin-left: auto;
-    margin-right: 350px;
+    margin-right: 265px;
 }
 #Titre
 {   
@@ -139,14 +139,14 @@ h8
 #photo-jc
 {
     margin-right: 5px;
-    margin-top: 20px;
+    margin-top: -8px;
     border:3px White solid;
     overflow:hidden;
-    -webkit-border-radius:50px;
-    -moz-border-radius:50px;
-    border-radius:50px;
-    width:90px;
-    height:90px;
+    -webkit-border-radius:80px;
+    -moz-border-radius:80px;
+    border-radius:80px;
+    width:150px;
+    height:150px;
 }
 .Corps-cv-part1
 {
