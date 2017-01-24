@@ -352,8 +352,9 @@ contenu-complementaire
 }
 .visiteurs
 {
-    position:relative;
+    position:absolute;
     text-align: center;
+    margin-top: 800px;
 
 }
 #contenu
